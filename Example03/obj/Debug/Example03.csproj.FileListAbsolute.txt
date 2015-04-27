@@ -1,0 +1,12 @@
+c:\users\user\documents\visual studio 2012\Projects\[CS252]2015-04-24\Example03\bin\Debug\Example03.exe.config
+c:\users\user\documents\visual studio 2012\Projects\[CS252]2015-04-24\Example03\bin\Debug\Example03.exe
+c:\users\user\documents\visual studio 2012\Projects\[CS252]2015-04-24\Example03\bin\Debug\Example03.pdb
+c:\users\user\documents\visual studio 2012\Projects\[CS252]2015-04-24\Example03\obj\Debug\Example03.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2012\Projects\[CS252]2015-04-24\Example03\obj\Debug\Example03.exe
+c:\users\user\documents\visual studio 2012\Projects\[CS252]2015-04-24\Example03\obj\Debug\Example03.pdb
+D:\visual studio 2013\Projects\[CS252]2015-04-24\Example03\bin\Debug\Example03.exe.config
+D:\visual studio 2013\Projects\[CS252]2015-04-24\Example03\obj\Debug\Example03.exe
+D:\visual studio 2013\Projects\[CS252]2015-04-24\Example03\obj\Debug\Example03.pdb
+D:\visual studio 2013\Projects\[CS252]2015-04-24\Example03\bin\Debug\Example03.exe
+D:\visual studio 2013\Projects\[CS252]2015-04-24\Example03\bin\Debug\Example03.pdb
+D:\visual studio 2013\Projects\[CS252]2015-04-24\Example03\obj\Debug\Example03.csprojResolveAssemblyReference.cache
